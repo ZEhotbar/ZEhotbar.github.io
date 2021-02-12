@@ -1,0 +1,46 @@
+p{
+    margin: 23px  ;
+    color:#a3ddcb;
+    font-family: 'Lato-Regular.ttf';
+    }
+     body{
+        background-color:#0a043c;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 40px;
+        }
+     div{
+         box-shadow: 0 0 10px 1px rgba(214, 212, 212, 0.2) ;
+        padding: 20px;
+        margin: auto;
+        background-color:#03506f;
+        width: 90%;
+        color:#a3ddcb;
+        }
+        img{ 
+            margin:auto;
+            width: auto;
+            height:auto; 
+            padding: 0 20px;
+        }
+        a{
+
+            font-family: 'Press Start 2P';
+            text-decoration: none;
+            color:#ffe3de;
+            display: inline block;
+            margin:100px;
+            border-bottom: 1px solid transparent;
+            transition:0.2s ease-in;
+        }
+        a:hover {
+            border-bottom-color: blue;
+        }
+        h1{
+            color:#a3ddcb;
+            font-size: 30px;
+        }
+        *{
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
